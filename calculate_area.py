@@ -12,7 +12,7 @@ def main():
     radius = float(radius)
     area = calculate_area(radius)
     # Mistake 2: The print statement is missing a closing parenthesis
-    print("The area of the circle is", area )
+    print("The area of the circle is", area)
 
 if __name__ == "__main__":
     main()
