@@ -67,3 +67,10 @@ This repository is designed for **beginners** to practice **branching** and **pu
     - Verify that the script behaves as expected.
 
 By following these steps, you’ll gain hands-on experience with **branching**, **committing**, **creating pull requests**, and **merging**—essential skills for any collaborative GitHub project. Good luck, and have fun learning!
+
+---
+
+## Author
+
+Nadezhda Zhukova  
+[nadiajuckova@gmail.com](mailto:nadiajuckova@gmail.com)
