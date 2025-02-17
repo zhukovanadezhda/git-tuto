@@ -4,7 +4,7 @@ import math
 
 def calculate_area(radius):
     # Mistake 1: The variable "radius" is misspelled as "radus"
-    area = math.pi * radus**2
+    area = math.pi * radius**2
     return area
 
 def main():
